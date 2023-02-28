@@ -1,1 +1,1 @@
-# Video-Object-Detection
+# videoObjectDetection
